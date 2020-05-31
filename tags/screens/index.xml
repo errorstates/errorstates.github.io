@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data on Error States</title>
-    <link>https://errorstates.com/tags/data/</link>
-    <description>Recent content in Data on Error States</description>
+    <title>Screens on Error States</title>
+    <link>https://errorstates.com/tags/screens/</link>
+    <description>Recent content in Screens on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 09:47:27 -0400</lastBuildDate>
     
-	<atom:link href="https://errorstates.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://errorstates.com/tags/screens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://errorstates.com/posts/008-beta-subways/</guid>
       <description>What happens when you introduce agile software development into rolling out public digital infrastructure? [Continue Reading]</description>
-    </item>
-    
-    <item>
-      <title>Roundup 001, February 2020</title>
-      <link>https://errorstates.com/posts/r001-february-2020/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://errorstates.com/posts/r001-february-2020/</guid>
-      <description>Notes from around the internet about driverless cars, flawed datasets, and Boston Dynamics. [Continue Reading]</description>
     </item>
     
   </channel>
